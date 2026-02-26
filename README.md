@@ -1,5 +1,5 @@
 # Telerilevamento_2026🛰️
-<img width="406" height="251" alt="image" src="https://github.com/user-attachments/assets/b9163bc6-0838-430e-86bd-12b848790490" />
+<img width="300" height="251" alt="image" src="https://github.com/user-attachments/assets/b9163bc6-0838-430e-86bd-12b848790490" />
 
 
 ## Cosa è? 📖
