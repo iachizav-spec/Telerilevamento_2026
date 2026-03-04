@@ -28,11 +28,15 @@ plot(b2, col=mako(100))
 cl <- colorRampPalette(c("dark gray", "gray", "light gray"))(100)   
 plot(b2, col=cl)
 
-# par
+cl <- colorRampPalette(c("black","dark gray", "gray", "light gray"))(100)
+plot(b2, col=cl)
+
+# par, 
 par(mfrow=c(1,2))
 plot(b2, col=inferno(100))
 plot(b2, col=cl)
 
+#killer della visualizzazione
 dev.off()
 
 # im.multiframe
