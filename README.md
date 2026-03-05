@@ -10,5 +10,7 @@ Duccio Rocchini, informazioni [qui](https://www.unibo.it/sitoweb/duccio.rocchini
 
 ## Link utili
 Sentinel 2 [bande](https://gisgeography.com/sentinel-2-bands-combinations/)
+
 Viridis [color palettes](https://search.r-project.org/CRAN/refmans/viridisLite/html/viridis.html)
+
 Colori in R [qui](https://r-charts.com/colors/)
